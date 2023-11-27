@@ -167,3 +167,13 @@ PRODUCT_PACKAGES += \
     NavbarSammyOverlay \
     NavbarKronicOverlay \
     NavbarDoraOverlay
+
+# Volume Styles
+PRODUCT_PACKAGES += \
+    VolumeDoubleLayer \
+    VolumeGradient \
+    VolumeNeumorph \
+    VolumeNeumorphOutline \
+    VolumeOutline \
+    VolumeShadedLayer \
+    VolumeAOSPRevamped
