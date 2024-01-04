@@ -167,3 +167,7 @@ PRODUCT_PACKAGES += \
     NavbarSammyOverlay \
     NavbarKronicOverlay \
     NavbarDoraOverlay
+
+# Launcher Overlays
+PRODUCT_PACKAGES += \
+    ParanoidLauncherOverlay 
