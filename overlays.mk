@@ -177,3 +177,9 @@ PRODUCT_PACKAGES += \
     VolumeOutline \
     VolumeShadedLayer \
     VolumeAOSPRevamped
+
+# UDFPS Animations
+ifeq ($(BLACKIRON_UDFPS_ANIMATIONS),true)
+PRODUCT_PACKAGES += \
+    UdfpsResources
+endif
